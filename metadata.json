@@ -1,0 +1,6 @@
+{
+  "name": "Jio Pay",
+  "description": "P2P Money Buy and Sell platform with 8% profit commission, UPI payments, admin verification, and transaction tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
